@@ -1,9 +1,14 @@
+# TLDR;
+
+1. `npm install`
+2. `npm run dev`
+
 # Manual refreshing sucks.
 
 A faster and leaner development environment for developing web components with hot reload.
 
+### What is this?
 
-### What is this? 
 This environment setup consists of two major parts:
 
 - A dev server that provides fast Hot Module Replacement (HMR), which enables hot reload.
